@@ -1,0 +1,14 @@
+.todoContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.DeleteButton {
+  height: 40px;
+  width: 80px;
+  border-radius: 5px;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  background-color: transparent;
+  border-style: solid;
+}
